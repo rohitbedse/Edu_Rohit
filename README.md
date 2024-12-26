@@ -13,7 +13,7 @@
 
   EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a https://edu-rohit.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a"https://edu-rohit.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
